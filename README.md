@@ -1,8 +1,6 @@
 # flink-clojure-example
 
-Flink SocketTextStreamWordCount example implemented in Clojure.
-
-Currently it depends on modified ```genclass``` (```flink-example.util.genclass```) to extend parametrized types. This way there's no need to define anything Java. 
+Flink SocketTextStreamWordCount example implemented in Clojure. 
 
 ## Usage
 
